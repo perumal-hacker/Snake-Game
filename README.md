@@ -1,6 +1,6 @@
 # Snake Game in JavaScript
 
-Welcome to the Snake Game! This classic arcade game is implemented using JavaScript, HTML, and CSS. The objective is to control a snake to eat food, grow in length, and avoid running into walls or itself. 
+Welcome to the Snake Game! This classic arcade game is implemented using JavaScript, HTML, and CSS. The objective is to control a snake to eat food, grow in length, and avoid running into walls or itself
 
 ## Table of Contents
 
